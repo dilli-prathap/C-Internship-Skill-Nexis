@@ -8,7 +8,7 @@ The repository includes assignments, programs, and practical work completed thro
 
 * **Week 1** – C Programming Basics & Loops
 * **Week 2** – C Programming Arrays & Functions
-* **Week 3** – C Programming
+* **Week 3** – C Programming Pointers & Strings
 * **Week 4** – C Programming
 
 Each week's work is organized in a separate folder for easy reference.
