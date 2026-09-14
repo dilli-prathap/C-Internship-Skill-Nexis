@@ -7,9 +7,7 @@ The repository includes assignments, programs, and practical work completed thro
 ## Weekly Work
 
 * **Week 1** – C Programming Basics & Loops
-
-### UPCOMING:
-* **Week 2** – C Programming
+* **Week 2** – C Programming Arrays & Functions
 * **Week 3** – C Programming
 * **Week 4** – C Programming
 
